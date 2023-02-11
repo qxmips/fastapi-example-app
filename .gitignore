@@ -1,0 +1,17 @@
+.idea
+.env
+.env2
+.env.production
+.env.dev
+.env.staging
+.pytest_cache
+.coverage
+htmlcov
+venv
+*__pycache__
+*.pyc
+.DS_Store
+/node_modules/*
+/package.json
+/package-lock.json
+.DS_Store
